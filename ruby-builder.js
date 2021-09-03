@@ -8,7 +8,7 @@ const common = require('./common')
 const rubyBuilderVersions = require('./ruby-builder-versions')
 
 const builderReleaseTag = 'toolcache'
-const releasesURL = 'https://github.com/ruby/ruby-builder/releases'
+const releasesURL = 'https://github.com/tenderlove/ruby-builder/releases'
 
 const windows = common.windows
 
