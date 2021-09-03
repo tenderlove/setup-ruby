@@ -58791,7 +58791,7 @@ const tc = __nccwpck_require__(7784)
 const common = __nccwpck_require__(4717)
 const rubyBuilderVersions = __nccwpck_require__(2679)
 
-const builderReleaseTag = 'toolcache'
+const builderReleaseTag = 'dwarf'
 const releasesURL = 'https://github.com/tenderlove/ruby-builder/releases'
 
 const windows = common.windows

@@ -7,7 +7,7 @@ const tc = require('@actions/tool-cache')
 const common = require('./common')
 const rubyBuilderVersions = require('./ruby-builder-versions')
 
-const builderReleaseTag = 'toolcache'
+const builderReleaseTag = 'dwarf'
 const releasesURL = 'https://github.com/tenderlove/ruby-builder/releases'
 
 const windows = common.windows
