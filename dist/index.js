@@ -58804,6 +58804,7 @@ async function install(platform, engine, version) {
   let rubyPrefix, inToolCache
   if (common.shouldUseToolCache(engine, version)) {
     inToolCache = tc.find('Ruby', version)
+    inToolCache = false
     if (inToolCache) {
       rubyPrefix = inToolCache
     } else {
