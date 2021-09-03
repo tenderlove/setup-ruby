@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruby/setup-ruby.git"
+    "url": "git+https://github.com/tenderlove/setup-ruby.git"
   },
   "keywords": [
     "GitHub",
@@ -18,9 +18,9 @@
   "author": "Benoit Daloze",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ruby/setup-ruby/issues"
+    "url": "https://github.com/tenderlove/setup-ruby/issues"
   },
-  "homepage": "https://github.com/ruby/setup-ruby",
+  "homepage": "https://github.com/tenderlove/setup-ruby",
   "dependencies": {
     "@actions/cache": "^1.0.7",
     "@actions/core": "^1.4.0",
